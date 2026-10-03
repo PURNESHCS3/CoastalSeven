@@ -1,9 +1,0 @@
-BACKEND/.env
-BACKEND/app/.env
-BACKEND/.venv/
-BACKEND/.pytest_cache/
-**/__pycache__/
-*.py[cod]
-FRONTEND/node_modules/
-FRONTEND/dist/
-FRONTEND/.env.local
