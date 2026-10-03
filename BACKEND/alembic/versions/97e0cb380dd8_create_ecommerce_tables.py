@@ -1,7 +1,7 @@
 """create ecommerce tables
 
 Revision ID: 97e0cb380dd8
-Revises: 
+Revises:
 Create Date: 2026-09-28 12:48:49.794608
 
 """
